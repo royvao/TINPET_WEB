@@ -1,0 +1,7 @@
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\Tinpet_Web.exe
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\Tinpet_Web.dll
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\Tinpet_Web.deps.json
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\Tinpet_Web.runtimeconfig.json
+E:\work\TINPET_WEB\Tinpet_Web\Tinpet_Web\obj\Release\net6.0\PubTmp\Out\Tinpet_Web.pdb

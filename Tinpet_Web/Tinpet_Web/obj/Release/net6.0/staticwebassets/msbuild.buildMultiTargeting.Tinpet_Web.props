@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tinpet_Web.props" />
+</Project>
