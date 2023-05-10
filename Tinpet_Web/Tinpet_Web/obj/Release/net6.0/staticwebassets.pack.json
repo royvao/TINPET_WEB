@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\img\\Tinpet_Login.png"
     },
     {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Signup.png"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup2.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Signup2.png"
+    },
+    {
       "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Start.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Start.png"
     },

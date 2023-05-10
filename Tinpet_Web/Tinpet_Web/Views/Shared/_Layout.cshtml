@@ -11,7 +11,7 @@
 </head>
 <body>
    <header>
-        <nav class="navbar navbar-expand-lg bg-warning navbar-light fixed-top">
+        <nav class="navbar navbar-expand-lg bg-warning navbar-light">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-controller="Home" asp-action="Index">
                     <img src="~/img/icon_pawprint_white.png" width="50" height="50" />
@@ -25,8 +25,9 @@
         </main>
     </div>
 
-    <!-- Footer -->
-    <footer class=" text-center fixed-bottom" style="background-color:#ffff6c;">
+  @*  <!-- Footer -->
+    <div class="container">
+    <footer class="text-center flex-wrap justify-content-between align-items-center py-3 my-4 border-top" style="background-color:#ffff6c;">
         
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
             © 2023 TINPET
@@ -35,7 +36,29 @@
         <!-- Copyright -->
 
     </footer>
-    <!-- Footer -->
+    </div>
+    <!-- Footer -->*@
+
+    <footer class="text-center bg-warning fixed-bottom">
+      <a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
+      @*<a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Accesibilidad</a>*@
+        <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/royvao/TINPET_WEB/releases/tag/0.0.1">Descargar</a>
+      <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/Radanes7512/Tinpet_tfg">GitHub</a>
+      <a class="text-decoration-none text-dark" asp-area="" asp-controller="Home" asp-action="About">Sobre nosotros</a>
+      <br />
+      <br />
+      <p>
+            © 2023 TINPET
+      </p>
+    </footer>
+    <style>
+       .div1{
+           border: 2px solid red
+       }
+       .div2{
+           border: 2px solid blue
+       }
+    </style>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
