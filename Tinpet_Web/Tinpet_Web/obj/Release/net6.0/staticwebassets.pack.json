@@ -9,8 +9,28 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",
+      "PackagePath": "staticwebassets\\icon_pawprint.ico"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Login.png"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Start.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Start.png"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint.png",
+      "PackagePath": "staticwebassets\\img\\icon_pawprint.png"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_black.png",
+      "PackagePath": "staticwebassets\\img\\icon_pawprint_black.png"
+    },
+    {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_white.png",
+      "PackagePath": "staticwebassets\\img\\icon_pawprint_white.png"
     },
     {
       "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",
