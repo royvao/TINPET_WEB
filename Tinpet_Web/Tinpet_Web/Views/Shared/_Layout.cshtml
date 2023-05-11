@@ -13,9 +13,12 @@
    <header>
         <nav class="navbar navbar-expand-lg bg-warning navbar-light">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
-                    <img src="~/img/icon_pawprint_white.png" width="50" height="50" />
-                </a>                
+                <a class="navbar-brand " asp-controller="Home" asp-action="Index">
+                    <img src="~/img/icon_pawprint_white.png" width="50" height="50"/>
+                </a>
+                <a asp-controller="Home" asp-action="Index" class="text-decoration-none text-dark">
+                <h1 style="font-family:'Abril Fatface'">T I N P E T</h1>
+                </a>
             </div>
         </nav>
    </header>
@@ -24,26 +27,11 @@
             @RenderBody()
         </main>
     </div>
-
-  @*  <!-- Footer -->
-    <div class="container">
-    <footer class="text-center flex-wrap justify-content-between align-items-center py-3 my-4 border-top" style="background-color:#ffff6c;">
-        
-        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-            © 2023 TINPET
-            <a class="text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Nuestra política de privacidad</a>
-        </div>
-        <!-- Copyright -->
-
-    </footer>
-    </div>
-    <!-- Footer -->*@
-
     <footer class="text-center bg-warning fixed-bottom">
       <a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
       @*<a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Accesibilidad</a>*@
-        <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/royvao/TINPET_WEB/releases/tag/0.0.1">Descargar</a>
-      <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/Radanes7512/Tinpet_tfg">GitHub</a>
+        <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/Radanes7512/Tinpet_TFG/releases/tag/0.0.1">Descargar</a>
+      <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/Radanes7512/Tinpet_TFG">GitHub</a>
       <a class="text-decoration-none text-dark" asp-area="" asp-controller="Home" asp-action="About">Sobre nosotros</a>
       <br />
       <br />
@@ -51,12 +39,15 @@
             © 2023 TINPET
       </p>
     </footer>
-    <style>
+    <style>        
        .div1{
            border: 2px solid red
        }
        .div2{
            border: 2px solid blue
+       }
+       .div3{
+           border: 2px solid black
        }
     </style>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

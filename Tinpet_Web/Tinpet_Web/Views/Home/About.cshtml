@@ -138,6 +138,11 @@
     <!-- End-->
 </div>
 <!-- End-->
+<br />
+<div style="text-align:right;">
+    <a class="btn btn-outline-warning" href="#">Volver arriba</a>
+</div>
+<br />
 <style>
     .social-link {
         width: 30px;
@@ -157,27 +162,5 @@
         text-decoration: none;
         color: #555;
     }
-
-    #volver-arriba {
-        transition: all 0.2s ease-in-out;
-    }
-
-    #volver-arriba:hover {
-        transform: scale(1.1);
-    }
 </style>
 
-<br />
-<div style="text-align:right;">
-    <a id="volver-arriba" class="btn btn-outline-warning" href="#">^</a>
-</div>
-<script>
-    var boton = document.getElementById("volver-arriba");
-    boton.onmouseover = function () {
-        boton.innerHTML = "Volver arriba";
-    };
-    boton.onmouseout = function () {
-        boton.innerHTML = "^";
-    };
-</script>
-<br />
