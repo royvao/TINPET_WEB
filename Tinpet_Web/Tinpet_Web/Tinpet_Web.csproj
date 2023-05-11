@@ -7,8 +7,4 @@
     <ApplicationIcon>wwwroot\icon_pawprint.ico</ApplicationIcon>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\img\" />
-  </ItemGroup>
-
 </Project>
