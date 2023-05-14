@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\img\\icon_pawprint_white.png"
     },
     {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\qr-code.png",
+      "PackagePath": "staticwebassets\\img\\qr-code.png"
+    },
+    {
       "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

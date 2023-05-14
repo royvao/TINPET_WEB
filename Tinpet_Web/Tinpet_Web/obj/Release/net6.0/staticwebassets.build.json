@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lk+bUSLhup7mp1V3Y63UP/4xfQCJxqPV5CBSG+SlJQU=",
+  "Hash": "3hdqrEuORZQrO+YHqdMy1xfziTO1dnz3gIkZdhMaiSE=",
   "Source": "Tinpet_Web",
   "BasePath": "_content/Tinpet_Web",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\icon_pawprint_white.png"
+    },
+    {
+      "Identity": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\qr-code.png",
+      "SourceId": "Tinpet_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
+      "BasePath": "_content/Tinpet_Web",
+      "RelativePath": "img/qr-code.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\qr-code.png"
     },
     {
       "Identity": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Friends.png",
