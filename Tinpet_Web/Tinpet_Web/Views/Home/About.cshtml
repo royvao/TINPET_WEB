@@ -3,7 +3,11 @@
 }
 
 <br />
-<h1 style="font-family:'Abril Fatface'">Sobre nosotros</h1>
+<div class="container text-center text-white" id="maincont">
+<br />
+<h1>@ViewData["Title"]</h1>
+<br />
+</div>
 <hr />
 <div class="container">
     <p style="text-align: justify;">
@@ -67,7 +71,11 @@
 <br />
 <br />
 <!-- Team section-->
+<div class="container text-center text-white" id="maincont">
+    <br />
 <h1 style="font-family:'Abril Fatface'">Nuestro equipo</h1>
+<br />
+</div>
 <hr />
 <div class="row text-center">
     <!-- Team item-->
@@ -144,6 +152,14 @@
 </div>
 <br />
 <style>
+    #maincont {
+        background-image: url('https://acortar.link/4AQiDB');
+        background-size: cover;
+        background-repeat: round;
+        background-position: center center;
+        background-attachment: fixed;
+        background-color: rgba(0, 0, 0, 0.8);
+    }
     .social-link {
         width: 30px;
         height: 30px;
