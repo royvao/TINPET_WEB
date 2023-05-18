@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oUgV95C958Z2oe4WKnGdcfK0e3qQgkT5k5euns+tXts=",
+  "Hash": "S8b7JNqjhhCzOf2K5v65EjZIufbds8Jw1sbJM7er+1g=",
   "Source": "Tinpet_Web",
   "BasePath": "_content/Tinpet_Web",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\font\\abril_fatface_regular.ttf",
+      "SourceId": "Tinpet_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
+      "BasePath": "_content/Tinpet_Web",
+      "RelativePath": "font/abril_fatface_regular.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\font\\abril_fatface_regular.ttf"
     },
     {
       "Identity": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",

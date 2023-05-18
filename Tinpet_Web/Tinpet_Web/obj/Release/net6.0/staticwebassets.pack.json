@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\font\\abril_fatface_regular.ttf",
+      "PackagePath": "staticwebassets\\font\\abril_fatface_regular.ttf"
+    },
+    {
       "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",
       "PackagePath": "staticwebassets\\icon_pawprint.ico"
     },
