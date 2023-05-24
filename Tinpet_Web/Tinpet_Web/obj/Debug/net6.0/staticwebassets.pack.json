@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\font\\abril_fatface_regular.ttf",
+      "PackagePath": "staticwebassets\\font\\abril_fatface_regular.ttf"
+    },
+    {
       "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",
       "PackagePath": "staticwebassets\\icon_pawprint.ico"
     },
@@ -61,6 +65,26 @@
       "PackagePath": "staticwebassets\\img\\Tinpet_Start.png"
     },
     {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\body_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\body_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs2_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\dogs2_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs3_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\dogs3_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs4_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\dogs4_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\dogs_bg.jpg"
+    },
+    {
       "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint.png",
       "PackagePath": "staticwebassets\\img\\icon_pawprint.png"
     },
@@ -71,6 +95,22 @@
     {
       "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_white.png",
       "PackagePath": "staticwebassets\\img\\icon_pawprint_white.png"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park2_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\park2_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park3_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\park3_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park4_bg.jpg",
+      "PackagePath": "staticwebassets\\img\\park4_bg.jpg"
+    },
+    {
+      "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\qr-code.png",
+      "PackagePath": "staticwebassets\\img\\qr-code.png"
     },
     {
       "Id": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",
