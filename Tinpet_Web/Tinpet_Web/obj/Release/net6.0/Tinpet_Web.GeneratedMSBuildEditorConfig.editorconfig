@@ -16,10 +16,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\work\Tinpet_WEB\Tinpet_Web\Tinpet_Web
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,8 +24,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Home/Proyect.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm95ZWN0LmNzaHRtbA==
+[E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Presentation/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGF0aW9uXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Presentation/Proyect.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGF0aW9uXFByb3llY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Presentation/Team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2VudGF0aW9uXFRlYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/work/Tinpet_WEB/Tinpet_Web/Tinpet_Web/Views/Shared/Error.cshtml]

@@ -15,7 +15,7 @@
 	<p>
 		¡Únete a la comunidad de amantes de los animales!
 	</p>
-	<a href="https://acortar.link/p09iLf" id="btn" onmouseover="changeText('Descargando...')" onmouseout="restoreText('Descargar')">Descargar</a>
+	<a href="https://acortar.link/p09iLf" id="btn" onClick="changeText('Descargando...')">Descargar</a>
 	<br />
 	<br />
 </div>
@@ -106,7 +106,7 @@
 		transition: background-color 0.3s ease;
 	}
 
-	#btn:hover {
+	#btn: {
 		background-color: #ff6f00;
 	}
 
@@ -120,11 +120,16 @@
 		}
 </style>
 <script>
+	var btn = document.getElementById('btn');
 	function changeText(downloading) {
-		document.getElementById('btn').innerHTML = downloading
-	}
-	function restoreText(download) {
-		document.getElementById('btn').innerHTML = download
+		btn.innerHTML = downloading
+		btn.style.backgroundColor="#ff6f00";
+		setTimeout(
+			function(){
+				btn.innerHTML = "Descargar";
+				btn.style.backgroundColor = "#fac710";
+			},5000
+		);
 	}
 </script>
 
