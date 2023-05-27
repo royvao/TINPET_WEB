@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CFGS\\.nuget\\packages\\": {}
+    "C:\\Users\\Roy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\Tinpet_Web.csproj",
+      "projectUniqueName": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\Tinpet_Web.csproj",
       "projectName": "Tinpet_Web",
-      "projectPath": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\Tinpet_Web.csproj",
-      "packagesPath": "C:\\Users\\CFGS\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\obj\\",
+      "projectPath": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\Tinpet_Web.csproj",
+      "packagesPath": "C:\\Users\\Roy\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CFGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
