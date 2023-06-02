@@ -17,5 +17,17 @@ namespace Tinpet_Web.Controllers
         {
             return View();
         }
+        public IActionResult AdvAndDisadv()
+        {
+            return View();
+        }
+        public IActionResult Firebase()
+        {
+            return View();
+        }
+        public IActionResult JetpackCompose()
+        {
+            return View();
+        }
     }
 }
