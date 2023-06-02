@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ht1KkPn6+azXNAqzohykzvLjfMPhvb+gLhiditaVo5Q=",
+  "Hash": "R4QlE6NKSDL94mxefhU4rVSZur7WsTVqRSmUtRGmHL0=",
   "Source": "Tinpet_Web",
   "BasePath": "_content/Tinpet_Web",
   "Mode": "Default",
@@ -306,23 +306,6 @@
       "OriginalItemSpec": "wwwroot\\img\\qr-code.png"
     },
     {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Friends.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Friends.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Friends.png"
-    },
-    {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Home.png",
       "SourceId": "Tinpet_Web",
       "SourceType": "Discovered",
@@ -338,6 +321,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Tinpet_Home.png"
+    },
+    {
+      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Index.png",
+      "SourceId": "Tinpet_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
+      "BasePath": "_content/Tinpet_Web",
+      "RelativePath": "img/Tinpet_Index.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Index.png"
     },
     {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login.png",
@@ -357,12 +357,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Tinpet_Login.png"
     },
     {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Notify.png",
+      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petprofile.png",
       "SourceId": "Tinpet_Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
       "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Notify.png",
+      "RelativePath": "img/Tinpet_Petprofile.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -371,24 +371,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Notify.png"
-    },
-    {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petitions.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Petitions.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Petitions.png"
+      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Petprofile.png"
     },
     {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places.png",
@@ -408,12 +391,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Tinpet_Places.png"
     },
     {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places2.png",
+      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Register.png",
       "SourceId": "Tinpet_Web",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
       "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Places2.png",
+      "RelativePath": "img/Tinpet_Register.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -422,24 +405,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Places2.png"
-    },
-    {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Profile.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Profile.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Profile.png"
+      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Register.png"
     },
     {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Settings.png",
@@ -457,57 +423,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Tinpet_Settings.png"
-    },
-    {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Signup.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Signup.png"
-    },
-    {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup2.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Signup2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Signup2.png"
-    },
-    {
-      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Start.png",
-      "SourceId": "Tinpet_Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
-      "BasePath": "_content/Tinpet_Web",
-      "RelativePath": "img/Tinpet_Start.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Start.png"
     },
     {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",

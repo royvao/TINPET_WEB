@@ -17,52 +17,32 @@
       "PackagePath": "staticwebassets\\icon_pawprint.ico"
     },
     {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Friends.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Friends.png"
-    },
-    {
       "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Home.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Home.png"
+    },
+    {
+      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Index.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Index.png"
     },
     {
       "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Login.png"
     },
     {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Notify.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Notify.png"
-    },
-    {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petitions.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Petitions.png"
+      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petprofile.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Petprofile.png"
     },
     {
       "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Places.png"
     },
     {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places2.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Places2.png"
-    },
-    {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Profile.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Profile.png"
+      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Register.png",
+      "PackagePath": "staticwebassets\\img\\Tinpet_Register.png"
     },
     {
       "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Settings.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Settings.png"
-    },
-    {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Signup.png"
-    },
-    {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Signup2.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Signup2.png"
-    },
-    {
-      "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Start.png",
-      "PackagePath": "staticwebassets\\img\\Tinpet_Start.png"
     },
     {
       "Id": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\body_bg.jpg",
