@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MYJoPuBLnt9d797CAJPiVUgsXCisajCZKtF0Ynd3S5c=",
+  "Hash": "UhwanZLWcoqBz7qY5B8T7lmoKdLxhHjsXBZ3urH1zPw=",
   "Source": "Tinpet_Web",
   "BasePath": "_content/Tinpet_Web",
   "Mode": "Default",
@@ -304,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\qr-code.png"
+    },
+    {
+      "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Autentication.png",
+      "SourceId": "Tinpet_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\",
+      "BasePath": "_content/Tinpet_Web",
+      "RelativePath": "img/Tinpet_Autentication.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Tinpet_Autentication.png"
     },
     {
       "Identity": "E:\\work\\Tinpet_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Home.png",
