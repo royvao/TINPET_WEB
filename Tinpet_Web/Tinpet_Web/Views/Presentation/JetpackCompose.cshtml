@@ -1,33 +1,103 @@
 ﻿@{
-    ViewData["Title"] = "Jetpack Compose";
+	ViewData["Title"] = "Jetpack Compose";
 }
 
 <br />
 <div class="container text-center text-white" id="maincont">
 <br />
-    <h1>Jetpack Compose</h1>
+	<h1>Jetpack Compose</h1>
 <br />
 </div>
 
 <hr />
 
 <div class="container">
-    <h4>Definición</h4>
-        <p style="text-align: justify;">Jetpack Compose es un conjunto de herramientas
-            que <i>Android</i> ofrece para desarrollar aplicaciones en <i>Kotlin</i> de
-            forma más sencilla y con menos código, de forma declarativa.
-        </p>
-    <h4>Uso</h4>
-    <p style="text-align: justify;">El uso es...</p>
+	<h4>Definición</h4>
+		<p style="text-align: justify;">
+			Es un conjunto de herramientas que <i>Android</i> ofrece
+			para desarrollar aplicaciones en <i>Kotlin</i> de
+			forma más sencilla y con menos código.
+		</p>
+		<p style="text-align: justify;">
+			Este <i>framework</i> se ha utilizado para el 
+			desarrollo completo de la interfaz de la aplicación porque facilita
+			la construcción tanto de la parte visual como de la parte lógica
+			del proyecto.
+		</p>		
+	<h4>Front End</h4>
+		<p style="text-align: justify;">
+			La estructura de las pantallas están definidas con funciones en las que se 
+			declara cada elemento que vaya a verse, como columnas, cajas, filas, botones, etc.
+			Estas funciones están envueltas con el elemento <i>Composable</i>, el cual se
+			encarga de indicar qué funciones están creadas para diseñar la interfaz.
+		</p>
+
+
+<h4>Código</h4>
+<p style="text-align: justify;">
+	A la izquierda se puede ver el código y a la derecha el resultado de este.
+</p>
+<div class="container text-center" id="carrcont">
+	<br />
+	<div id="carouselFrontEnd" class="carousel slide" >
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<!-- código -->
+				<img src="~/img/Code_Login.png" width="290" height="500">
+				<!-- vista -->
+				<img src="~/img/Tinpet_Login_shaped.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- código -->
+				<img src="~/img/Code_Places.png" width="290" height="500">
+				<!-- vista -->
+				<img src="~/img/Tinpet_Places_shaped.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- código -->
+				<img src="~/img/Code_Chat.png" width="290" height="500">
+				<!-- vista -->
+				@*<img src="~/img/chat_example.webm" width="290" height="500">*@
+				<img src="~/img/chat_example.gif" width="290" height="500">
+			</div>			
+		</div>
+		<a class="carousel-control-prev" href="#carouselFrontEnd" role="button" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselFrontEnd" role="button" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</a>
+	</div>
+	<br />
 </div>
+</div>
+<br />
+<br />
 
 <style>
-    #maincont {
-        background-image: url('https://acortar.link/4AQiDB');
-        background-size: cover;
-        background-repeat: round;
-        background-position: center center;
-        background-attachment: fixed;
-        background-color: rgba(0, 0, 0, 0.8);
-    }
+	#maincont {
+		background-image: url('https://acortar.link/4AQiDB');
+		background-size: cover;
+		background-repeat: round;
+		background-position: center center;
+		background-attachment: fixed;
+		background-color: rgba(0, 0, 0, 0.8);
+	}
+	#carrcont {
+			background-image: url('https://acortar.link/wIzrzf');
+			background-size:cover;
+			background-repeat:round;
+			background-position: center center;
+			background-attachment: fixed;
+			background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
+		}
 </style>
+<script>
+	var myCarousel = document.querySelector('#carouselFrontEnd')
+myCarousel.addEventListener('slid.bs.carousel', function () {
+  var carousel = bootstrap.Carousel.getInstance(myCarousel)
+  carousel.pause()
+})
+</script>
