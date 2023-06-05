@@ -15,17 +15,17 @@
 	<p>
 		¡Únete a la comunidad de amantes de los animales!
 	</p>
-	<a href="https://acortar.link/taIWuL" id="btn" onClick="changeText('Descargando...')">Descargar</a>
+	<a href="https://acortar.link/taIWuL" id="btnIndex" onClick="changeText('Descargando...')">Descargar</a>
 	<br />
 	<br />
 </div>
 <br />
 <br />
-<div class="container text-center" id="carrcont">
+<div class="container text-center" id="carrcontIndex">
 	<br />
-	<div id="carouselIndex" class="carousel slide" data-bs-ride="carousel">
+	<div id="carouselIndex" class="carousel carousel-fade slide" data-bs-ride="carousel">
 		<div class="carousel-inner">
-			<div class="carousel-item active">
+			<div class="carousel-item active" data-mdb-interval="5000">
 				<img src="img/Tinpet_Index.png" width="290" height="500">
 			</div>
 			<div class="carousel-item">
@@ -73,40 +73,6 @@
 	<a class="btn btn-outline-warning" href="#">Volver arriba</a>
 </div>
 <br />
-<style>
-	#maincont {
-		background-image: url('img/body_bg.jpg');
-		background-size: cover;
-		background-repeat: round;
-		background-position: center center;
-		background-attachment: fixed;
-		background-color: rgba(0, 0, 0, 0.8);
-	}
-
-	#btn {
-		display: inline-block;
-		padding: 0.75rem 1.5rem;
-		font-size: 1.25rem;
-		border-radius: 0.5rem;
-		background-color: #fac710;
-		color: white;
-		text-decoration: none;
-		transition: background-color 0.3s ease;
-	}
-
-	#btn: {
-		background-color: #ff6f00;
-	}
-
-	#carrcont {
-			background-image: url('img/dogs_bg.jpg');
-			background-size:cover;
-			background-repeat:round;
-			background-position: center center;
-			background-attachment: fixed;
-			background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
-		}
-</style>
 <script>
 	var btn = document.getElementById('btn');
 	function changeText(downloading) {

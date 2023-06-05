@@ -12,46 +12,102 @@
 
 <div class="container">
     <h4>Funcionalidades</h4>
-    <p>Firebase es un servicio "<i>online</i>" relacionado con la creación
+    <p style="text-align: justify;">
+        Firebase es un servicio "<i>online</i>" relacionado con la creación
         y gestión remota de bases de datos <i>NoSQL</i>, con diferentes
         funcionalidades de almacenaje de datos y uso de información. En este proyecto
-        se han utilizado las siguientes herramientas:</p>
+        se han utilizado las siguientes herramientas:
+    </p>
     <br />
+    <div id="carouselFirebase" class="carousel slide carousel-dark carrusel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+              <img src="~/img/Firebase_Authentication.png">
+          </div>
+          <div class="carousel-item">
+              <img src="~/img/Firebase_Firestore.png">
+          </div>
+          <div class="carousel-item">
+              <img src="~/img/Firebase_Storage.png">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselFirebase" role="button" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselFirebase" role="button" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</a>
+      </div>
+      <br>
+    <h5>Firebase Authentication</h5>
+    <p style="text-align: justify;">
+        Es una funcionalidad que se utiliza para almacenar un registro
+        y hacer una verificación de las cuentas de correo
+        que entren en la aplicación.
+    </p>
+    <h5>Cloud Firestore</h5>
+    <p style="text-align: justify;">
+        Es empleada para guardar todos los datos
+        que se tengan de la aplicación como:
+    </p>
     <ul>
-    <li><b>Firebase Authentication</b></li>
-        <p>Es una funcionalidad
-            que se utiliza para almacenar un registro
-            y hacer una verificación de las cuentas de correo
-            que entren en la aplicación.
-        </p>
+        <li>Usuarios</li>
+        <li>Parques</li>
+        <li>Conversaciones</li>
+        <li>Peticiones de amistad</li>
+    </ul>
+    @*<img src="~/img/Firebase_Firestore.png" width="300" height="150">*@
 
-        <li><b>Cloud Firestore</b></li>
-        <p>
-           Es empleada para guardar
-           todos los datos que se tengan de la aplicación como:
-           <ul>
-               <li>Usuarios</li>
-               <li>Parques</li>
-               <li>Conversaciones</li>
-               <li>Peticiones de amistad</li>
-           </ul>
-        </p>
-    <li><b>Storage</b></li>
-    <p>Se utiliza para el almacenaje
-        de imágenes o cualquier tipo de archivo y la generación de enlaces
-        para poder mostrarlas en la aplicación</p>
-</ul>
+    <h5>Storage</h5>
+    <p style="text-align: justify;">
+        Se utiliza para el almacenaje de imágenes 
+        o cualquier tipo de archivo y la generación de enlaces
+        para poder mostrarlas en la aplicación.
+    </p>
+    @*<img src="~/img/Firebase_Storage.png" width="300" height="150">*@
+
+      
+
+    <a href="https://console.firebase.google.com/project/tinpetbbdd-b61b6/overview">Abrir consola de Firebase</a>
+    <br>
 </div>
 
-<style>
-    #maincont {
-        background-image: url('https://acortar.link/4AQiDB');
-        background-size: cover;
-        background-repeat: round;
-        background-position: center center;
-        background-attachment: fixed;
-        background-color: rgba(0, 0, 0, 0.8);
+<br />
+<br />
+
+<div style="text-align:right;">
+    <a id="scrollButton" class="btn btn-outline-warning" href="#">Volver arriba</a>
+</div>
+<br />
+
+<script>
+	var myCarousel = document.querySelector('.carrusel')
+myCarousel.addEventListener('slid.bs.carousel', function () {
+  var carousel = bootstrap.Carousel.getInstance(myCarousel)
+  carousel.pause()
+})
+// Obtener una referencia al botón
+  var scrollButton = document.getElementById('scrollButton');
+  
+  // Función para actualizar la visibilidad del botón
+  function updateButtonVisibility() {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      // Se ha hecho scroll: mostrar el botón
+      scrollButton.style.display = 'inline-block';
+    } else {
+      // No se ha hecho scroll: ocultar el botón
+      scrollButton.style.display = 'none';
     }
-</style>
+  }
+
+  // Actualizar la visibilidad del botón al cargar la página
+  updateButtonVisibility();
+
+  // Actualizar la visibilidad del botón cuando se hace scroll
+  window.onscroll = updateButtonVisibility;
+</script>
+
 
 

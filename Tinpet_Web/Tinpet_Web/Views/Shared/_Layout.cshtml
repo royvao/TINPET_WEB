@@ -33,31 +33,22 @@
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Presentation" asp-action="Team">Quiénes somos</a>
+                        </li>                        
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Presentation" asp-action="AdvAndDisadv">Alcance</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Presentation" asp-action="Proyect">Proyecto</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Presentation" asp-action="About">Acerca de</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Presentation" asp-action="AdvAndDisadv">Alcance</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Presentation" asp-action="Firebase">Firebase</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Presentation" asp-action="JetpackCompose">Jetpack Compose</a>
-                        </li>
-                        @*<li class="nav-item">
-                            <a></a>
-                        </li>
+                        </li>                        
                         <li class="nav-item">
-                            <a class="nav-link" href="https://acortar.link/p09iLf">Descargar</a>
+                            <a class="nav-link" asp-controller="Presentation" asp-action="About">Acerca de</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Index">Inicio</a>
-                        </li>*@
                     </ul>
                 </div>
             </div>
@@ -81,16 +72,22 @@
                     <img src="https://img.icons8.com/?size=512&id=32323&format=png" width="30" height="30" />
                 </a>
             </li>
-        </ul>
-        @*<a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Privacidad</a>
-     <a class="text-decoration-none text-dark" style="margin-right: 15px" asp-area="" asp-controller="Home" asp-action="Privacy">Accesibilidad</a>
-        <a class="text-decoration-none text-dark" style="margin-right: 15px" href="https://github.com/Radanes7512/Tinpet_TFG/releases/download/1.0.1-alpha/tinpet_1.0.1-alpha.apk">Descargar</a>
-        <a class="text-decoration-none text-dark" asp-area="" asp-controller="Home" asp-action="About">Sobre nosotros</a>*@
-    
+        </ul>    
       <p>
-           2023 TINPET - <a class="text-decoration-none text-dark" asp-controller="Home" asp-action="Privacy">Política de privacidad</a>
+           2023 TINPET - Colegio Salesiano Santo Domingo Savio
       </p>
     </footer>
+    @*<script>
+        var navItems = document.querySelectorAll('.nav-item');
+        navItems.forEach(function(navItem) {
+            navItem.addEventListener('click', function() {
+                navItems.forEach(function(navItem) {
+                    navItem.classList.remove('active');
+                });
+                this.classList.add('active');
+            });
+        });
+    </script>*@
     <!-- jQuery (requerido para los componentes de JavaScript de Bootstrap) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 

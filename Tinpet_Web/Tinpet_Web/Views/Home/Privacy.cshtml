@@ -66,16 +66,27 @@
 <br />
 <br />
 <div style="text-align:right;">
-    <a class="btn btn-outline-warning" href="#">Volver arriba</a>
+    <a id="scrollButton" class="btn btn-outline-warning" href="#">Volver arriba</a>
 </div>
 <br />
-<style>
-    #maincont {
-        background-image: url('https://acortar.link/4AQiDB');
-        background-size: cover;
-        background-repeat: round;
-        background-position: center center;
-        background-attachment: fixed;
-        background-color: rgba(0, 0, 0, 0.8);
+<script>
+// Obtener una referencia al botón
+  var scrollButton = document.getElementById('scrollButton');
+  
+  // Función para actualizar la visibilidad del botón
+  function updateButtonVisibility() {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      // Se ha hecho scroll: mostrar el botón
+      scrollButton.style.display = 'inline-block';
+    } else {
+      // No se ha hecho scroll: ocultar el botón
+      scrollButton.style.display = 'none';
     }
-</style>
+  }
+
+  // Actualizar la visibilidad del botón al cargar la página
+  updateButtonVisibility();
+
+  // Actualizar la visibilidad del botón cuando se hace scroll
+  window.onscroll = updateButtonVisibility;
+</script>

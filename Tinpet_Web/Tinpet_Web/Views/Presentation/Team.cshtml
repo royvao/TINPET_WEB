@@ -5,7 +5,7 @@
 <!-- Team section-->
 <div class="container text-center text-white" id="maincont">
     <br />
-<h1>Nuestro equipo</h1>
+<h1>El equipo de desarrollo</h1>
 <br />
 </div>
 <hr />
@@ -27,11 +27,6 @@
                 <li class="list-inline-item">
                     <a href="https://gitlab.com/Andres.Gonzalez_" style="text-decoration:none">
                         <img src="https://img.icons8.com/?size=512&id=34886&format=png" width="30" height="30" />
-                    </a>
-                </li>
-                <li class="list-inline-item">
-                    <a href="https://instagram.com/radamanes" style="text-decoration:none">
-                        <img src="https://img.icons8.com/?size=512&id=32323&format=png" width="30" height="30" />
                     </a>
                 </li>
                 <li class="list-inline-item">
@@ -63,11 +58,6 @@
                     </a>
                 </li>
                 <li class="list-inline-item">
-                    <a href="https://instagram.com/royvao" style="text-decoration:none">
-                        <img src="https://img.icons8.com/?size=512&id=32323&format=png" width="30" height="30" />
-                    </a>
-                </li>
-                <li class="list-inline-item">
                     <a href="mailto:apptinpet@gmail.com" style="text-decoration:none">
                         <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="30" height="30" />
                     </a>
@@ -79,32 +69,31 @@
 </div>
 <!-- End-->
 <br />
-<style>
-    #maincont {
-        background-image: url('https://acortar.link/4AQiDB');
-        background-size: cover;
-        background-repeat: round;
-        background-position: center center;
-        background-attachment: fixed;
-        background-color: rgba(0, 0, 0, 0.8);
-    }
-    .social-link {
-        width: 30px;
-        height: 30px;
-        border: 1px solid #ddd;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: #666;
-        border-radius: 50%;
-        transition: all 0.3s;
-        font-size: 0.9rem;
-    }
-    .social-link:hover,
-    .social-link:focus {
-        background: #ddd;
-        text-decoration: none;
-        color: #555;
-    }
+<br />
+<div style="text-align:right">
+    <a id="scrollButton" class="btn btn-outline-warning" href="#">Volver arriba</a>
+</div>
 
-</style>
+<br />
+
+<script>
+  // Obtener una referencia al botón
+  var scrollButton = document.getElementById('scrollButton');
+  
+  // Función para actualizar la visibilidad del botón
+  function updateButtonVisibility() {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      // Se ha hecho scroll: mostrar el botón
+      scrollButton.style.display = 'inline-block';
+    } else {
+      // No se ha hecho scroll: ocultar el botón
+      scrollButton.style.display = 'none';
+    }
+  }
+
+  // Actualizar la visibilidad del botón al cargar la página
+  updateButtonVisibility();
+
+  // Actualizar la visibilidad del botón cuando se hace scroll
+  window.onscroll = updateButtonVisibility;
+</script>

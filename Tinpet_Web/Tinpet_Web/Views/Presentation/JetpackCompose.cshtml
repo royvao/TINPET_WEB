@@ -13,33 +13,33 @@
 
 <div class="container">
 	<h4>Definición</h4>
-		<p style="text-align: justify;">
-			Es un conjunto de herramientas que <i>Android</i> ofrece
-			para desarrollar aplicaciones en <i>Kotlin</i> de
-			forma más sencilla y con menos código.
-		</p>
-		<p style="text-align: justify;">
-			Este <i>framework</i> se ha utilizado para el 
-			desarrollo completo de la interfaz de la aplicación porque facilita
-			la construcción tanto de la parte visual como de la parte lógica
-			del proyecto.
-		</p>		
-	<h4>Front End</h4>
-		<p style="text-align: justify;">
-			La estructura de las pantallas están definidas con funciones en las que se 
-			declara cada elemento que vaya a verse, como columnas, cajas, filas, botones, etc.
-			Estas funciones están envueltas con el elemento <i>Composable</i>, el cual se
-			encarga de indicar qué funciones están creadas para diseñar la interfaz.
-		</p>
-
-
-<h4>Código</h4>
-<p style="text-align: justify;">
-	A la izquierda se puede ver el código y a la derecha el resultado de este.
-</p>
-<div class="container text-center" id="carrcont">
+	<p style="text-align: justify;">
+		Es un conjunto de herramientas que <i>Android</i> ofrece
+		para desarrollar aplicaciones en <i>Kotlin</i> de
+		forma más sencilla y con menos código.
+	</p>
+	<p style="text-align: justify;">
+		Este <i>framework</i> se ha utilizado para el 
+		desarrollo completo de la interfaz de la aplicación porque facilita
+		la construcción tanto de la parte visual como de la parte lógica
+		del proyecto.
+	</p>		
+	<h4>Interfaz</h4>
+	<p style="text-align: justify;">
+		La estructura de las pantallas están definidas con funciones en las que se 
+		declara cada elemento que vaya a verse, como columnas, cajas, filas, botones, etc.
+		Estas funciones están envueltas con el elemento <i>Composable</i>, el cual se
+		encarga de indicar qué funciones están creadas para diseñar la interfaz.
+	</p>
+	<h4>Código</h4>
+	<p style="text-align: justify;">
+		En estas diapositivas puede verse el código y el resultado del mismo.
+	</p>
 	<br />
-	<div id="carouselFrontEnd" class="carousel slide" >
+	<div class="container text-center" id="carrcontFront">
+	<br />
+	<!-- Carrusel para pantallas grandes -->
+	<div id="carouselLarge" class="carousel slide carrusel" >
 		<div class="carousel-inner">
 			<div class="carousel-item active">
 				<!-- código -->
@@ -57,47 +57,90 @@
 				<!-- código -->
 				<img src="~/img/Code_Chat.png" width="290" height="500">
 				<!-- vista -->
-				@*<img src="~/img/chat_example.webm" width="290" height="500">*@
 				<img src="~/img/chat_example.gif" width="290" height="500">
 			</div>			
 		</div>
-		<a class="carousel-control-prev" href="#carouselFrontEnd" role="button" data-bs-slide="prev">
+		<a class="carousel-control-prev" href="#carouselLarge" role="button" data-bs-slide="prev">
 			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 			<span class="visually-hidden">Previous</span>
 		</a>
-		<a class="carousel-control-next" href="#carouselFrontEnd" role="button" data-bs-slide="next">
+		<a class="carousel-control-next" href="#carouselLarge" role="button" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</a>
+	</div>
+
+	<!-- Carrusel para pantallas pequeñas -->
+	<div id="carouselSmall" class="carousel slide carrusel">
+		<div class="carousel-inner">
+			<div class="carousel-item active">
+				<!-- código -->
+				<img src="~/img/Code_Login.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- vista -->
+				<img src="~/img/Tinpet_Login_shaped.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- código -->
+				<img src="~/img/Code_Places.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- vista -->
+				<img src="~/img/Tinpet_Places_shaped.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- código -->
+				<img src="~/img/Code_Chat.png" width="290" height="500">
+			</div>
+			<div class="carousel-item">
+				<!-- vista -->
+				<img src="~/img/chat_example.gif" width="290" height="500">
+			</div>			
+		</div>
+		<a class="carousel-control-prev" href="#carouselSmall" role="button" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</a>
+		<a class="carousel-control-next" href="#carouselSmall" role="button" data-bs-slide="next">
 			<span class="carousel-control-next-icon" aria-hidden="true"></span>
 			<span class="visually-hidden">Next</span>
 		</a>
 	</div>
 	<br />
 </div>
+
+<br />
+<br />
+<br />
+<div style="text-align:right;">
+    <a id="scrollButton" class="btn btn-outline-warning" href="#">Volver arriba</a>
 </div>
 <br />
-<br />
 
-<style>
-	#maincont {
-		background-image: url('https://acortar.link/4AQiDB');
-		background-size: cover;
-		background-repeat: round;
-		background-position: center center;
-		background-attachment: fixed;
-		background-color: rgba(0, 0, 0, 0.8);
-	}
-	#carrcont {
-			background-image: url('https://acortar.link/wIzrzf');
-			background-size:cover;
-			background-repeat:round;
-			background-position: center center;
-			background-attachment: fixed;
-			background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
-		}
-</style>
 <script>
-	var myCarousel = document.querySelector('#carouselFrontEnd')
+	var myCarousel = document.querySelector('.carrusel')
 myCarousel.addEventListener('slid.bs.carousel', function () {
   var carousel = bootstrap.Carousel.getInstance(myCarousel)
   carousel.pause()
 })
+// Obtener una referencia al botón
+  var scrollButton = document.getElementById('scrollButton');
+  
+  // Función para actualizar la visibilidad del botón
+  function updateButtonVisibility() {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      // Se ha hecho scroll: mostrar el botón
+      scrollButton.style.display = 'inline-block';
+    } else {
+      // No se ha hecho scroll: ocultar el botón
+      scrollButton.style.display = 'none';
+    }
+  }
+
+  // Actualizar la visibilidad del botón al cargar la página
+  updateButtonVisibility();
+
+  // Actualizar la visibilidad del botón cuando se hace scroll
+  window.onscroll = updateButtonVisibility;
 </script>

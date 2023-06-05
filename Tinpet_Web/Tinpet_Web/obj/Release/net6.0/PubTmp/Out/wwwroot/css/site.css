@@ -25,3 +25,87 @@ a, span, h1, h2, h3, h4, h5{
     font-family: abrilfatface;
     src: url('../font/abril_fatface_regular.ttf') format('truetype')
 }
+
+#maincont {
+    background-image: url('../img/body_bg.jpg');
+    background-size: cover;
+    background-repeat: round;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.social-link {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    border-radius: 50%;
+    transition: all 0.3s;
+    font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+    background: #ddd;
+    text-decoration: none;
+    color: #555;
+}
+
+#btnIndex {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.25rem;
+    border-radius: 0.5rem;
+    background-color: #fac710;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+#carrcontIndex {
+    background-image: url('../img/dogs_bg.jpg');
+    background-size: cover;
+    background-repeat: round;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
+}
+
+
+#carrcontBack {
+    /*background-image: url('https://acortar.link/WXYsVk');*/
+    background-image: url('../img/code1_bg.jpg');
+    background-size: cover;
+    background-repeat: round;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
+}
+
+
+#carrcontFront {
+    /*background-image: url('https://acortar.link/wIzrzf');*/
+    background-image: url('../img/code2_bg.jpg');
+    background-size: cover;
+    background-repeat: round;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
+}
+#carrcontFirebase {
+    /*background-image: url('https://acortar.link/wIzrzf');*/
+    background-image: url('../img/code3_bg.jpg');
+    background-size: auto;
+    background-repeat: round;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.8); /* Aquí puedes ajustar la opacidad cambiando el valor 0.5 */
+}
+#carouselFirebase img {
+    width:100%;
+    height: 350px;
+}

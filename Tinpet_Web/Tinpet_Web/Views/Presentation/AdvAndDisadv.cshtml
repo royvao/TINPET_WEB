@@ -8,44 +8,62 @@
     <h1>Alcance del proyecto</h1>
 <br />
 </div>
-
 <hr />
-
 <div class="container">
-    <h4>Funcionalidades</h4>
+    <h4>Explicación</h4>
     <p style="text-align: justify;">
-        El alcance del proyecto ha sido replanteado ya que al querer implementar tecnologías nuevas como 
-        "<i>Jetpack Compose</i>" y "<i>Kotlin</i>" como lenguaje de programación nos hemos visto forzados a cambiar las 
-        direcciones especificadas en el anteproyecto prevaleciendo las funcionalidades más solidas a nuestro parecer.
+        El proyecto que hemos desarrollado ha requerido algunas modificaciones en
+        su alcance debido a la incorporación de tecnologías innovadoras como
+        <i>"Jetpack Compose"</i> y <i>"Kotlin"</i> como lenguaje de programación. 
+        Estas tecnologías nos permiten crear aplicaciones más modernas y eficientes,
+        pero también implican algunos cambios en las especificaciones que se habían
+        definido en el anteproyecto. Por ello, hemos priorizado las funcionalidades
+        que nos parecen más relevantes y sólidas para el éxito del proyecto.
     </p>
     <br />
+    <h4>Propuestas</h4>
+    <p style="text-align: justify;">
+        Estas son todas las que se plantearon en un inicio:
+    </p>
     <ul>
-        <li><b>Propuestas de preproyecto</b></li>
-        <p style="text-align: justify;">
-           Estas son todas las propuestas iniciales:
-            <ul>
-                <li>Registro de usuarios y mascotas</li>
-                <li>Localización GPS</li>
-                <li>Mensajería por chat</li>
-                <li>Peticiones de amistad</li>
-                <li>Opción "Cerca de mí"</li>
-                <li>Búsqueda por categorías</li>
-                <li>Amistades</li>
-                <li>Valoraciones</li>
-                <li>Lugares más transitados</li>
-                <li>Estado de actividad</li>
-            </ul>
-        </p>
+        <li>Registro de usuarios y mascotas</li>
+        <li>Localización GPS</li>
+        <li>Mensajería por chat</li>
+        <li>Peticiones de amistad</li>
+        <li>Opción "<i>Cerca de mí</i>"</li>
+        <li>Búsqueda por categorías</li>
+        <li>Amistades</li>
+        <li>Valoraciones</li>
+        <li>Lugares más transitados</li>
+        <li>Estado de actividad</li>
     </ul>
 </div>
 <br />
-<style>
-    #maincont {
-        background-image: url('https://acortar.link/4AQiDB');
-        background-size: cover;
-        background-repeat: round;
-        background-position: center center;
-        background-attachment: fixed;
-        background-color: rgba(0, 0, 0, 0.8);
+<br />
+
+<div style="text-align:right;">
+    <a id="scrollButton" class="btn btn-outline-warning" href="#">Volver arriba</a>
+</div>
+<br />
+
+<script>
+// Obtener una referencia al botón
+  var scrollButton = document.getElementById('scrollButton');
+  
+  // Función para actualizar la visibilidad del botón
+  function updateButtonVisibility() {
+    if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
+      // Se ha hecho scroll: mostrar el botón
+      scrollButton.style.display = 'inline-block';
+    } else {
+      // No se ha hecho scroll: ocultar el botón
+      scrollButton.style.display = 'none';
     }
-</style>
+  }
+
+  // Actualizar la visibilidad del botón al cargar la página
+  updateButtonVisibility();
+
+  // Actualizar la visibilidad del botón cuando se hace scroll
+  window.onscroll = updateButtonVisibility;
+</script>
