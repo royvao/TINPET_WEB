@@ -1,475 +1,475 @@
 {
   "Files": [
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Tinpet_Web.bundle.scp.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Tinpet_Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Tinpet_Web.bundle.scp.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\font\\abril_fatface_regular.ttf",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\font\\abril_fatface_regular.ttf",
       "PackagePath": "staticwebassets\\font\\abril_fatface_regular.ttf"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\icon_pawprint.ico",
       "PackagePath": "staticwebassets\\icon_pawprint.ico"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Chat.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Chat.png",
       "PackagePath": "staticwebassets\\img\\Code_Chat.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Login.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Login.png",
       "PackagePath": "staticwebassets\\img\\Code_Login.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Places.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Code_Places.png",
       "PackagePath": "staticwebassets\\img\\Code_Places.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Authentication.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Authentication.png",
       "PackagePath": "staticwebassets\\img\\Firebase_Authentication.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Firestore.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Firestore.png",
       "PackagePath": "staticwebassets\\img\\Firebase_Firestore.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Storage.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Firebase_Storage.png",
       "PackagePath": "staticwebassets\\img\\Firebase_Storage.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_CheckFr.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_CheckFr.png",
       "PackagePath": "staticwebassets\\img\\Fun_CheckFr.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_GetUsers.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_GetUsers.png",
       "PackagePath": "staticwebassets\\img\\Fun_GetUsers.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_LoadPlaces.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_LoadPlaces.png",
       "PackagePath": "staticwebassets\\img\\Fun_LoadPlaces.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Login.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Login.png",
       "PackagePath": "staticwebassets\\img\\Fun_Login.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Places.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Places.png",
       "PackagePath": "staticwebassets\\img\\Fun_Places.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Register.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_Register.png",
       "PackagePath": "staticwebassets\\img\\Fun_Register.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_SendMsg.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_SendMsg.png",
       "PackagePath": "staticwebassets\\img\\Fun_SendMsg.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_UpdateFr.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Fun_UpdateFr.png",
       "PackagePath": "staticwebassets\\img\\Fun_UpdateFr.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Autentication.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Autentication.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Autentication.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Home.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Home.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Home.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Index.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Index.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Index.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Login.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login_shaped.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Login_shaped.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Login_shaped.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petprofile.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Petprofile.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Petprofile.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Places.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places_shaped.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Places_shaped.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Places_shaped.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Register.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Register.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Register.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Settings.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\Tinpet_Settings.png",
       "PackagePath": "staticwebassets\\img\\Tinpet_Settings.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\body_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\body_bg.jpg",
       "PackagePath": "staticwebassets\\img\\body_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\chat_example.gif",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\chat_example.gif",
       "PackagePath": "staticwebassets\\img\\chat_example.gif"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code1_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code1_bg.jpg",
       "PackagePath": "staticwebassets\\img\\code1_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code2_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code2_bg.jpg",
       "PackagePath": "staticwebassets\\img\\code2_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code3_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\code3_bg.jpg",
       "PackagePath": "staticwebassets\\img\\code3_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs10_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs10_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs10_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs11_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs11_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs11_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs12_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs12_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs12_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs2_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs2_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs2_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs3_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs3_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs3_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs4_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs4_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs4_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs5_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs5_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs5_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs6_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs6_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs6_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs7_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs7_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs7_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs8_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs8_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs8_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs9_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs9_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs9_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\dogs_bg.jpg",
       "PackagePath": "staticwebassets\\img\\dogs_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint.png",
       "PackagePath": "staticwebassets\\img\\icon_pawprint.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_black.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_black.png",
       "PackagePath": "staticwebassets\\img\\icon_pawprint_black.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_white.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\icon_pawprint_white.png",
       "PackagePath": "staticwebassets\\img\\icon_pawprint_white.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park10_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park10_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park10_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park11_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park11_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park11_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park12_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park12_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park12_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park2_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park2_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park2_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park3_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park3_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park3_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park4_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park4_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park4_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park5_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park5_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park5_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park6_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park6_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park6_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park7_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park7_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park7_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park8_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park8_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park8_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park9_bg.jpg",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\park9_bg.jpg",
       "PackagePath": "staticwebassets\\img\\park9_bg.jpg"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\qr-code.png",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\img\\qr-code.png",
       "PackagePath": "staticwebassets\\img\\qr-code.png"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\work\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Andres\\Documents\\TINPET_WEB\\Tinpet_Web\\Tinpet_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
