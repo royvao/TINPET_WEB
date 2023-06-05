@@ -10,10 +10,15 @@ function updateCarouselVisibility() {
 		// Pantalla grande: mostrar el carrusel grande y ocultar el carrusel pequeño
 		$('#carouselLarge').show();
 		$('#carouselSmall').hide();
+		$('#carouselFirebase').show();
+		$('#carrcontFirebase').show();
+
 	} else {
 		// Pantalla pequeña: mostrar el carrusel pequeño y ocultar el carrusel grande
 		$('#carouselSmall').show();
 		$('#carouselLarge').hide();
+		$('#carouselFirebase').hide();
+		$('#carrcontFirebase').hide();
 	}
 }
 
