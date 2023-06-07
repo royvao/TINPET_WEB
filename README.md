@@ -1,7 +1,7 @@
 <p align="center"><a href="[https://newpipe.net](https://tinpet.azurewebsites.net)"><img src="https://github.com/Radanes7512/Tinpet_TFG/blob/1.0.0/app/src/main/res/drawable-nodpi/icon_pawprint.png" width="150"></a></p> 
 <h1 align="center"><b>TinPet</b></h1>
 
-<p align="center"><a href="https://github.com/Radanes7512/Tinpet_TFG/releases/download/1.0.0/tinpet-1.0.0.apk"><img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.seoclerk.com%2Fpics%2F294333-1INeVg1416150620.png&sp=1685980109Ta16b57e78d8643c64f3fc9234dec7580365429d519f0ae637a67063bb1716a90" alt="Get it" height=80/></a></p>
+<p align="center"><a href="https://github.com/Radanes7512/Tinpet_TFG/releases/download/1.0.0/tinpet-1.0.0.apk"><img src="https://app.tipster.de/wp-content/uploads/2017/08/Android_Download.png" alt="Get it" height=80/></a></p>
 
 <p align="center">
 <a href="https://github.com/Radanes7512/Tinpet_TFG/releases" alt="GitHub release"><img src="https://img.shields.io/github/release/Radanes7512/Tinpet_TFG.svg" ></a>
