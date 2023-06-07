@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://newpipe.net](https://tinpet.azurewebsites.net)"><img src="https://github.com/Radanes7512/Tinpet_TFG/blob/master/assets/tin_pet_icon.png" width="150"></a></p> 
+<p align="center"><a href="https://tinpet.azurewebsites.net"><img src="https://github.com/Radanes7512/Tinpet_TFG/blob/master/assets/tin_pet_icon.png" width="150"></a></p> 
 <h1 align="center"><b>TinPet</b></h1>
 
 <p align="center"><a href="https://github.com/Radanes7512/Tinpet_TFG/releases/download/1.0.0/tinpet-1.0.0.apk"><img src="https://app.tipster.de/wp-content/uploads/2017/08/Android_Download.png" alt="Get it" height=80/></a></p>
